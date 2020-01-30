@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Base Project</string>
+    <string name="desc_image">App Images</string>
+    <string name="log_create">Create Account</string>
+    <string name="log_have">If you have account</string>
+    <string name="log_register">Register</string>
+    <string name="log_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="hint_verify">Verification Email</string>
+    <string name="hint_finish">Finish</string>
+    <string name="hint_yourname">Your Name</string>
+    <string name="hint_yourphone">Your Phone</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
